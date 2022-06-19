@@ -9,3 +9,8 @@
 a. andimesh
 2.ahvaz
 3.tehran
+
+#add new singers
+1. homa
+2. sirvan
+3. behnam
