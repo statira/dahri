@@ -14,3 +14,7 @@ a. andimesh
 1. ardashir
 2. siroos
 3.tooraj
+
+#add old singers
+1.bana
+2.simin
