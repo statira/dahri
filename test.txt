@@ -18,3 +18,5 @@ a. andimesh
 #add old singers
 1.bana
 2.simin
+3.tajvididi
+4.golpa
