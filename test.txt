@@ -11,6 +11,8 @@
 a. andimesh
 2.ahvaz
 3.tehran
+4.los
+5.new
 
 #add old names
 1. ardashir
