@@ -18,6 +18,8 @@ a. andimesh
 1. ardashir
 2. siroos
 3.tooraj
+5.teymoor
+6.korosh
 
 #add old singers
 1.bana
